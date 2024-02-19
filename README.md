@@ -1,2 +1,2 @@
-# Olá Mundão
- Primeiro repositório 
+# Olá, Mundão
+ Primeiro repositório Git/Github
